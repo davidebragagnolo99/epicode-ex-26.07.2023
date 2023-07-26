@@ -54,6 +54,7 @@ button {
     border: none;
     background-color: #F3DF85;
     padding-inline: 35px;
+    padding-block: 10px;
 }
 
 .content {
